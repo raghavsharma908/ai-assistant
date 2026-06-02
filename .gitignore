@@ -1,0 +1,11 @@
+# SQLite Database
+chat_history.db
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Document files
+*.docx
